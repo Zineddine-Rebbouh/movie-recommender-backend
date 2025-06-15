@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# Test and coverage
+coverage/
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Logs
+*.log
+
+# MyPy & Pyre type checkers
+.mypy_cache/
+.pyre/
+
+# Data / cache / models (customize as needed)
+*.pkl
+*.tsv
+*.db
+*.sqlite
+*.h5
+*.hdf5
+*.json
+*.npy
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
